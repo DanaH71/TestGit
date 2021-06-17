@@ -1,1 +1,3 @@
 Fisier modificat.
+
+text scris pe remote.
