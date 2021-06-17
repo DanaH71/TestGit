@@ -1,3 +1,5 @@
 Fisier modificat.
 
 text scris pe remote.
+
+Text scris pe local.
